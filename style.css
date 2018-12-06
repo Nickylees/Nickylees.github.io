@@ -44,3 +44,8 @@ function hideVideo(e) {
     $('video', this).get(0).pause();
 }
 -->
+<!--
+body{
+  background: linear-gradient(to right, #3a1c71, #d76d77, #ffaf7b);
+}
+-->
